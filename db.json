@@ -1,10 +1,10 @@
 {
     "Plan": [
         {
-            "deposit":"int",
-            "rate":"int",
-            "years":"int",
-            "balance":"int"
+            "deposit":"211",
+            "rate":"212",
+            "years":"213",
+            "balance":"214"
         }
     ]
 
