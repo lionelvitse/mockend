@@ -9,5 +9,16 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "balance":{
+    "deposit":"int",
+    "rate":"int",
+    "years":"int",
+    "balance":"int"
+
   }
+
+
+
+
 }
