@@ -1,11 +1,11 @@
 {
-    "Plan": [
-        {
-            "deposit":"211",
-            "rate":"212",
-            "years":"213",
-            "balance":"214"
-        }
-    ]
-
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
