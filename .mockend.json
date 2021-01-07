@@ -11,7 +11,7 @@
     "post": "Post",
     "maj":"string"
   },
-  "balance":{
+  "Plan":{
     "deposit":"int",
     "rate":"int",
     "years":"int",
