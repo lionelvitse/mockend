@@ -1,0 +1,11 @@
+{
+    "Plan": [
+        {
+            "deposit":"int",
+            "rate":"int",
+            "years":"int",
+            "balance":"int"
+        }
+    ]
+
+  }
