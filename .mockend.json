@@ -8,17 +8,14 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "Post",
+    "maj":"string"
   },
   "balance":{
     "deposit":"int",
     "rate":"int",
     "years":"int",
     "balance":"int"
-
   }
-
-
-
 
 }
