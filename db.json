@@ -2,7 +2,7 @@
   "profile": {
     "name": "typicode"
   },
-  "plan": [
+  "plans": [
       {
           "id":1,
           "deposit":"1",
