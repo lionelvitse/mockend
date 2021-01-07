@@ -1,32 +1,5 @@
 {
-  
-      "plans": [
-        {
-            "id":1,
-            "deposit":"1",
-            "rate":"1",
-            "years":"1",
-            "balance":"1"
-        },
-        {
-            "id":2,
-            "deposit":"2",
-            "rate":"2",
-            "years":"2",
-            "balance":"2"
-        },
-        {
-            "id":3,
-            "deposit":"3",
-            "rate":"3",
-            "years":"3",
-            "balance":"3"
-        }
-    ],
-  
-  
   "profile": {
     "name": "typicode"
   }
-  
 }
