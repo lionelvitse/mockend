@@ -2,6 +2,16 @@
   "profile": {
     "name": "typicode"
   },
+  "data" : {
+    "plans":[
+        {"id":3,"deposit":"3","rate":"3","years":"3","balance":"3"},
+        {"id":6,"deposit":"6","rate":"6","years":"6","balance":"6"}
+    ],
+    "runtime":{
+        "id" : "4FZBBUJEO",
+        "status":"OK"
+    }  
+  },
   "plans": [
       {
           "id":1,
